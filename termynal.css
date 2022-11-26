@@ -23,7 +23,7 @@
     font-size: 13px;
     font-family: 'Fira Mono', Consolas, Menlo, Monaco, 'Courier New', Courier, monospace;
     border-radius: 4px;
-    padding: 2px 15px 5px;
+    padding: 10px 10px 5px;
     position: relative;
     /* -webkit-box-sizing: border-box;
             box-sizing: border-box; */
@@ -32,7 +32,7 @@
   
   [data-ty] {
     display: block;
-    line-height: 1;
+    line-height: 1.5;
   }
   
   /* [data-ty]:before {
@@ -93,12 +93,13 @@
   display: inline-block;
   height:200px;
   }
+
+
   .lft{
     
     color: #291e1e;
     padding-top: 1cm;
     padding-left: 1cm;
-    padding-bottom: 1cm;
     width: 49%;
     height:150px;
     float:left;
@@ -111,7 +112,7 @@
     width: 50%;
     height:150px;
     float: right;
-    padding-bottom: 1cm;
+
   }
 
 
